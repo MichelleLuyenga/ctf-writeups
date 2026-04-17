@@ -16,3 +16,9 @@ ctf-writeups/
     ├── methodology/
     ├── notes/
     └── README.md
+
+What goes here:
+- Raw lab notes and command references
+- Step-by-step exploitation walkthroughs
+- Personal methodology as it evolves
+- Tools, payloads, recon checklists
